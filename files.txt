@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is added locally again
+=======
+this file is added globally.
+>>>>>>> origin/main
